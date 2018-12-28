@@ -1,0 +1,7 @@
+{
+  "name": "Routes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
